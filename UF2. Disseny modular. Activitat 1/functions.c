@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "functions.h"
 
 int validation(int num){
     for (int i = 0; i < TIMES; i++){

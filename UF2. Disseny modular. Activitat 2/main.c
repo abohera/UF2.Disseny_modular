@@ -2,7 +2,7 @@
 #include "functions.h"
 
 void main(){
-    int segundos = 0;
+    int segundos;
     printf("Introduce los segundos: ");
     scanf("%d", &segundos);
     if (segundos < 0){

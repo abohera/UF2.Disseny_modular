@@ -2,7 +2,7 @@
 #include "functions.h"
 
 void main(){
-    int num = 0;
+    int num;
     printf("Introduce un numero entre 10 y 5000 incluidos: ");
     scanf("%d", &num);
     validation(num);
